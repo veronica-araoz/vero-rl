@@ -1,0 +1,17 @@
+{
+  "config": {
+    "gamma": 0.9,
+    "tau": 0.9,
+    "beta": 10.0,
+    "max_weight": 100.0,
+    "d": 64,
+    "lr": 0.001,
+    "batch_size": 256,
+    "epochs": 5,
+    "polyak": 0.005,
+    "p_hidden_group": 0.3,
+    "grad_clip": 1.0,
+    "seed": 0
+  },
+  "logs": "random"
+}

@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Datos (no se duplican; ver config_dataset.py)
+data/
+*.df
+*_test.json
+
+# Logs derivados del sistema anterior (se regeneran solos, < 2 min)
+outputs/logs/
+
+# Sesiones sin comprimir (en el repo va sesiones.csv.gz)
+outputs/**/sesiones.csv
+
+# Material de estudio personal (no es entregable)
+docs/EXPLICACIONES.md

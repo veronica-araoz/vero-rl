@@ -1,0 +1,17 @@
+{
+  "gamma": 0.9,
+  "tau": 0.7,
+  "beta": 10.0,
+  "val_normalized_pi": 0.5998268118261115,
+  "mejor_tau_beta_por_gamma": {
+    "0.0": [
+      0.7,
+      10.0
+    ],
+    "0.9": [
+      0.7,
+      10.0
+    ]
+  },
+  "criterio": "media de normalizado de π en val (warm-up 0, grupo visible y oculto, semilla 0)"
+}

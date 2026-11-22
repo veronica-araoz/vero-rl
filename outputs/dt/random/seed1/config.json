@@ -1,0 +1,18 @@
+{
+  "config": {
+    "d_model": 64,
+    "n_layers": 2,
+    "n_heads": 4,
+    "dropout": 0.1,
+    "lr": 0.001,
+    "weight_decay": 0.01,
+    "batch_size": 256,
+    "epochs": 6,
+    "p_hidden_group": 0.3,
+    "grad_clip": 1.0,
+    "seed": 1
+  },
+  "logs": "random",
+  "n_train_episodes": 73827,
+  "uniform_ce": 6.62273632394984
+}

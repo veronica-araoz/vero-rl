@@ -1,0 +1,6 @@
+{
+  "candidate": "max",
+  "target": 99.0,
+  "val_normalized": 0.5841069260771811,
+  "criterio": "media de normalizado en val (warm-up 0, grupo visible y oculto, 3 semillas)"
+}
